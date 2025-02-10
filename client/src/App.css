@@ -123,6 +123,20 @@ footer {
   text-decoration: underline;
 }
 
+p {
+  color: #111;
+}
+h2 {
+  color: #111;
+}
+h3 {
+  color: #111;
+}
+img {
+  display: flex;
+  max-width: 12rem;
+}
+
 @keyframes blink {
   20%,
   24%,
